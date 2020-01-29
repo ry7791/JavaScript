@@ -479,3 +479,4 @@ console.log("최저온도:"+parsedJson.main.temp_min);
 
 ```
 
+ 
